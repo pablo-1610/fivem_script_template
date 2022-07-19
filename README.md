@@ -1,2 +1,2 @@
-# fivem_moduled_script_template
-Template of moduled FiveM script
+# FiveM Script Template
+Use this template to create your own FiveM script.
