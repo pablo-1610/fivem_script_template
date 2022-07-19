@@ -2,6 +2,9 @@ lua54 "yes"
 fx_version "adamant"
 game "gta5"
 
+-- Bootstrap
+shared_script "src/bootstrap.lua"
+
 -- Config
 shared_script "config/shared.lua"
 server_script "config/server.lua"
